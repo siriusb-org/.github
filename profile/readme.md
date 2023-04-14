@@ -1,2 +1,2 @@
 
-![SIRIUSB_logo 002](https://user-images.githubusercontent.com/29441772/231941028-5b73963b-a37e-48b8-8294-e62e340d0fe1.png)
+![SIRIUSB_logo 002crop](https://user-images.githubusercontent.com/29441772/231941150-18c07524-f261-4f13-93a3-b1cdbdaf8bc5.png)
