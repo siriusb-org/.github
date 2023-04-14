@@ -1,4 +1,1 @@
-# SIRIUS b
-
-
-This is a placeholder readme for siriusb.org
+README for SIRIUS B is in .github/profile/README.md
